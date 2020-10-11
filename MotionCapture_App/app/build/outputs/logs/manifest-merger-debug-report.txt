@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:9:5-10:80
+	android:required
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:10:54-77
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:10:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:17:5-34:19
+	android:label
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.example.gym_delivery.DeviceScanActivity
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:23:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:28:27-74
+service#com.hardwarebreakout.bleservice.BluetoothLeService
+ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:32:9-86
+	android:name
+		ADDED from C:\Users\Kong\Desktop\Work\SourceCode\CompleteProject\GYM_Delivery\app\src\main\AndroidManifest.xml:32:18-83

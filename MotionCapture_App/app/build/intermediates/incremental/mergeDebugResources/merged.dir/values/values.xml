@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="actionbar_clear">CLEAR</string>
+    <string name="actionbar_scan">SCAN</string>
+    <string name="actionbar_stop">STOP</string>
+    <string name="app_name">MotionCapture</string>
+    <string name="ble_not_supported">BLE가 연결되지 않았습니다.</string>
+    <string name="error_bluetooth_not_supported">블루투스가 제공되지 않는 OS버전입니다.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_device_scan">DeviceScanActivity</string>
+    <string name="title_devices">BLE 장치 스캔</string>
+    <string name="unknown_device">알 수 없는 장치</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>
